@@ -6,9 +6,8 @@
 ##### MIN_BET: the minimum bet that can be made per line
 ##### ROWS: the number of rows in the slot machine
 ##### COLS: the number of columns in the slot machine
-
+#####   
 ##### symbol_count: a dictionary containing the count of each symbol in the slot machine
-##### symbol_value: a dictionary containing the value of each symbol
 ##### check_winnings: a function that takes in the columns, lines, bet, and values and calculates the winnings and winning lines
 ##### get_slot_machine_spin: a function that returns a spin of the slot machine
 ##### print_slot_machine: a function that prints the current state of the slot machine
